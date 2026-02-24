@@ -1,10 +1,10 @@
 # Rafael Rodrigues Tavares
 
-### Founder da Tix.fun | Product Builder | UI/UX | No-Code Developer
+### Founder da etix | Product Builder | UI/UX | No-Code Developer
 
 Olá! 👋 Sou um construtor de produtos e fundador apaixonado por criar soluções digitais no universo **Entertech** (Entertainment + Technology).
 
-Atualmente, estou à frente da **Tix.fun**, uma plataforma que fundei para simplificar a criação, o gerenciamento e a venda de experiências. Todo o produto foi desenvolvido com uma abordagem No-Code, utilizando principalmente **Bubble.io**, o que me permitiu focar na estratégia de negócio e na experiência do usuário (UI/UX).
+Atualmente, estou à frente da **etix**, uma plataforma que fundei para simplificar a criação, o gerenciamento e a venda de experiências. Todo o produto foi desenvolvido com uma abordagem No-Code, utilizando principalmente **Bubble.io**, o que me permitiu focar na estratégia de negócio e na experiência do usuário (UI/UX).
 
 Na **tix&co**, continuo minha jornada desenvolvendo novos produtos SaaS, sempre buscando inovar e otimizar processos através da tecnologia.
 
